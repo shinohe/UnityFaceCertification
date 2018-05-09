@@ -5,6 +5,8 @@ Temp/
 Obj/
 UnityGenerated/
 Library/
+Assets/OpenCVForUnity
+Assets/OpenCVForUnity*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
